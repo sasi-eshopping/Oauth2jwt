@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: sasi
+Build-Jdk: 11.0.1
+Implementation-Title: spring-boot-security-oauth2-jwt-example
+Implementation-Version: 1.0-SNAPSHOT
+Implementation-Vendor-Id: com.devglan
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/spring-boot-security-oauth2-jwt-example
+Created-By: Maven Integration for Eclipse
+
